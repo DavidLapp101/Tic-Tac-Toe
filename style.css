@@ -25,3 +25,51 @@ h1{
 h3{
     text-align: center;
 }
+
+.middle-left {
+    border-bottom: 5px solid black; 
+    border-right: 5px solid black;
+    border-top: 5px solid black;
+}
+
+.middle-middle {
+    border: 5px solid black;
+}
+
+.middle-right {
+    border-bottom: 5px solid black; 
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+}
+
+.top-left {
+    border-bottom: 5px solid black; 
+    border-right: 5px solid black;
+}
+
+.top-middle {
+    border-bottom: 5px solid black; 
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+}
+
+.top-right {
+    border-bottom: 5px solid black; 
+    border-left: 5px solid black;
+}
+
+.bottom-left {
+    border-top: 5px solid black; 
+    border-right: 5px solid black;
+}
+
+.bottom-middle {
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+}
+
+.bottom-right {
+    border-top: 5px solid black; 
+    border-left: 5px solid black;
+}
